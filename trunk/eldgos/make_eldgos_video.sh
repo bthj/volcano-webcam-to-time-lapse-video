@@ -3,7 +3,7 @@
 #expects variables set:  DAY, RESIZE_DIR, VIDEO_FILENAME_SUFFIX
 
 
-BASE_DIR="eldgos_video"
+BASE_DIR="../eldgos_output/eldgos_video"
 
 . eldgos_mkdir.sh
 

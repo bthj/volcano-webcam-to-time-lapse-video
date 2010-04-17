@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Bash version ${BASH_VERSION}..."
 
-DAY="2010-04-08"
+DAY=$1
 DAY_Y="2010"
 DAY_m="04"
 DAY_d="08"
