@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DAY=$(date --date='1 day ago' +'%Y-%m-%d')
+# expects variable set:  DAY
 
 RESIZE_DIR="../eldgos_output/eldgos_resize/left"
 

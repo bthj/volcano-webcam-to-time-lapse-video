@@ -8,3 +8,5 @@
 . make_eldgos_video_yesterday_left.sh
 . make_eldgos_video_yesterday_right.sh
 
+. cp_live_yesterday_eldgos_videos.sh
+
