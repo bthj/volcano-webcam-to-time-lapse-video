@@ -23,7 +23,7 @@ MONTH="03"
 for d in {24..31}
 do
 	DAY="$YEAR-$MONTH-$d"
-	. eldgos_mkdir.sh
+	. eldgos_mk_base_dir_day.sh
 	download $YEAR $MONTH $d $DAY
 done
 
@@ -31,6 +31,6 @@ MONTH="04"
 for d in {01..13}
 do
 	DAY="$YEAR-$MONTH-$d"
-	. eldgos_mkdir.sh
+	. eldgos_mk_base_dir_day.sh
 	download $YEAR $MONTH $d $DAY
 done

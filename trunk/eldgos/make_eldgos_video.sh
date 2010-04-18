@@ -5,7 +5,7 @@
 
 BASE_DIR="../eldgos_output/eldgos_video"
 
-. eldgos_mkdir.sh
+. eldgos_mk_base_dir_day.sh
 
 VIDEO_FILE_EXTENSION="flv"
 
