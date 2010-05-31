@@ -14,15 +14,15 @@ function copy_to_dir {
 
 YEAR="2010"
 
-#MONTH="03"
-#for d in {24..31}
+#MONTH="04"
+#for d in {25..30}
 #do
 #	DAY="$YEAR-$MONTH-$d"
 #	copy_to_dir $DAY
 #done
 
-MONTH="04"
-for d in {17..17}
+MONTH="05"
+for d in {09..22}
 do
 	DAY="$YEAR-$MONTH-$d"
 	copy_to_dir $DAY
