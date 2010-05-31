@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for vika in {12..15}
+for vika in {19..20}
 do
 	TIMESPAN="2010-vika-$vika"
 	

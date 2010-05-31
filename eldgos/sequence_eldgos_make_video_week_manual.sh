@@ -8,9 +8,9 @@ BIT_RATE="-b 2048k"
 TARGET=""
 ASPECT=""
 
-for vika in {13..15}
+for vika in {19..20}
 do
-	TIMESPAN="2010-vika-$vika-sans-nuit"
+	TIMESPAN="2010-vika-$vika"
 	
 	VIDEO_FILENAME_SUFFIX="naer"
 	HALF="left"
