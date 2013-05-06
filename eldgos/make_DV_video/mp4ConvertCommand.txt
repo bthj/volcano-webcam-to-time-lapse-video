@@ -1,0 +1,1 @@
+avconv -i Eldgos_i_Fimmvorduhalsi_og_Eyjafjallajokli__naer__with_date.dv -vcodec libx264 -acodec libvo_aacenc -b 2048k  Eldgos_i_Fimmvorduhalsi_og_Eyjafjallajokli__naer__with_date__libx264__b2048k.mp4
