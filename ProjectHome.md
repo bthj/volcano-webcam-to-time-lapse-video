@@ -1,0 +1,3 @@
+Bash shell scripts to download one image for each minute of the day from a [volcano webcam site in Iceland](http://www.vodafone.is/eldgos) and create a [time-lapse video from that image sequence](http://bthj.is/eldgos).
+
+The scripts make use of the applications [cURL](http://curl.haxx.se/), [ImageMagick](http://www.imagemagick.org/) and [FFmpeg](http://ffmpeg.org/) and are run by [cron](http://en.wikipedia.org/wiki/Cron).
